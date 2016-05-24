@@ -1,0 +1,111 @@
+
+#user  nobody;
+worker_processes  1;
+
+#error_log  logs/error.log;
+#error_log  logs/error.log  notice;
+#error_log  logs/error.log  info;
+
+#pid        logs/nginx.pid;
+
+
+events {
+    worker_connections  1024;
+}
+
+
+http {
+    include       ${wmnp_home}nginx/conf/mime.types;
+    default_type  application/octet-stream;
+
+    #log_format  main  '$remote_addr - $remote_user [$time_local] "$request" '
+    #                  '$status $body_bytes_sent "$http_referer" '
+    #                  '"$http_user_agent" "$http_x_forwarded_for"';
+
+    #access_log  logs/access.log  main;
+
+    sendfile        on;
+    #tcp_nopush     on;
+
+    #keepalive_timeout  0;
+    keepalive_timeout  65;
+
+    #gzip  on;
+
+
+
+	server {
+		listen       80;
+		server_name  127.0.0.1;
+		location / {
+			root   ${wmnp_home}wwwroot;
+			index  index.html index.htm index.php default.php;
+			rewrite ^/index-(.+)\.html$ /index.php?id=$1 last;
+
+autoindex on;
+autoindex_exact_size off;
+autoindex_localtime on;
+		}
+		#if ($host !~ "(127.0.0.1)") {                   
+			 #return 500;
+		#}
+		location ~ .*\.php?$ {
+			root           ${wmnp_home}wwwroot;
+			fastcgi_pass   127.0.0.1:9000;
+			fastcgi_index  index.php;
+			fastcgi_param  SCRIPT_FILENAME  ${wmnp_home}wwwroot$fastcgi_script_name;
+			include         ${wmnp_home}nginx/conf/fastcgi_params;
+		}
+	}
+
+
+
+	server {
+		listen       80;
+		server_name  localhost;
+		location / {
+			root   ${wmnp_home}wwwroot;
+			index  index.html index.htm index.php default.php;
+			rewrite ^/index-(.+)\.html$ /index.php?id=$1 last;
+autoindex on;
+autoindex_exact_size off;
+autoindex_localtime on;
+			
+		}
+		location ~ .*\.php?$ {
+			root           ${wmnp_home}wwwroot;
+			fastcgi_pass   127.0.0.1:9000;
+			fastcgi_index  index.php;
+			fastcgi_param  SCRIPT_FILENAME  ${wmnp_home}wwwroot$fastcgi_script_name;
+			include         ${wmnp_home}nginx/conf/fastcgi_params;
+		}
+	}
+
+
+
+
+	server {
+		listen       80;
+		server_name  demo.com;
+		location / {
+			root   ${wmnp_home}wwwroot/demo;
+			index  index.html index.htm index.php default.php;
+			rewrite ^/index-(.+)\.html$ /index.php?id=$1 last;
+		}
+		location ~ .*\.php?$ {
+			root           ${wmnp_home}wwwroot/demo;
+			fastcgi_pass   127.0.0.1:9000;
+			fastcgi_index  index.php;
+			fastcgi_param  SCRIPT_FILENAME  ${wmnp_home}wwwroot/demo$fastcgi_script_name;
+			include         ${wmnp_home}nginx/conf/fastcgi_params;
+		}
+	}
+
+
+
+
+
+
+
+
+}

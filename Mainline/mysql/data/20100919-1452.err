@@ -1,0 +1,642 @@
+101230 14:48:13 [Note] Plugin 'FEDERATED' is disabled.
+101230 14:48:13  InnoDB: Started; log sequence number 0 162244
+101230 14:48:13 [Note] Event Scheduler: Loaded 0 events
+101230 14:48:13 [Note] D:\WNPServer\assets\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101230 15:12:37 [Note] Plugin 'FEDERATED' is disabled.
+101230 15:12:37  InnoDB: Started; log sequence number 0 162244
+101230 15:12:37 [Note] Event Scheduler: Loaded 0 events
+101230 15:12:37 [Note] D:\WNPServer\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101230 15:26:16 [Note] Plugin 'FEDERATED' is disabled.
+101230 15:26:16  InnoDB: Started; log sequence number 0 162244
+101230 15:26:16 [Note] Event Scheduler: Loaded 0 events
+101230 15:26:16 [Note] D:\WNPServer\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101230 15:32:30 [Note] Plugin 'FEDERATED' is disabled.
+101230 15:32:30  InnoDB: Started; log sequence number 0 162244
+101230 15:32:30 [Note] Event Scheduler: Loaded 0 events
+101230 15:32:30 [Note] D:\wmnp\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101230 15:34:46 [Note] Plugin 'FEDERATED' is disabled.
+101230 15:34:46  InnoDB: Started; log sequence number 0 162244
+101230 15:34:46 [Note] Event Scheduler: Loaded 0 events
+101230 15:34:46 [Note] D:\wmnp\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101230 15:34:52 [Note] Plugin 'FEDERATED' is disabled.
+101230 15:34:52  InnoDB: Started; log sequence number 0 162244
+101230 15:34:52 [Note] Event Scheduler: Loaded 0 events
+101230 15:34:52 [Note] D:\wmnp\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101230 15:37:39 [Note] Plugin 'FEDERATED' is disabled.
+101230 15:37:39  InnoDB: Started; log sequence number 0 162244
+101230 15:37:39 [Note] Event Scheduler: Loaded 0 events
+101230 15:37:39 [Note] D:\wmnp\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101230 15:38:22 [Note] Plugin 'FEDERATED' is disabled.
+101230 15:38:22  InnoDB: Started; log sequence number 0 162244
+101230 15:38:22 [Note] Event Scheduler: Loaded 0 events
+101230 15:38:22 [Note] D:\wmnp\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101230 15:41:02 [Note] Plugin 'FEDERATED' is disabled.
+101230 15:41:02  InnoDB: Started; log sequence number 0 162244
+101230 15:41:02 [Note] Event Scheduler: Loaded 0 events
+101230 15:41:02 [Note] D:\wmnp\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101230 15:45:43 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+101230 15:45:43  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101230 15:45:43  InnoDB: Started; log sequence number 0 162254
+101230 15:45:43 [Note] Event Scheduler: Loaded 0 events
+101230 15:45:43 [Note] D:\wmnp\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101230 15:45:54 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+101230 15:45:54  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101230 15:45:54  InnoDB: Started; log sequence number 0 162254
+101230 15:45:54 [Note] Event Scheduler: Loaded 0 events
+101230 15:45:54 [Note] D:\wmnp\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101230 15:46:54 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+101230 15:46:54  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101230 15:46:54  InnoDB: Started; log sequence number 0 162254
+101230 15:46:54 [Note] Event Scheduler: Loaded 0 events
+101230 15:46:54 [Note] D:\wmnp\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101230 15:47:17 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+101230 15:47:17  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101230 15:47:17  InnoDB: Started; log sequence number 0 162254
+101230 15:47:17 [Note] Event Scheduler: Loaded 0 events
+101230 15:47:17 [Note] D:\wmnp\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101230 15:47:39 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+101230 15:47:39  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101230 15:47:39  InnoDB: Started; log sequence number 0 162254
+101230 15:47:39 [Note] Event Scheduler: Loaded 0 events
+101230 15:47:39 [Note] D:\wmnp\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101230 15:51:35 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+101230 15:51:35  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101230 15:51:35  InnoDB: Started; log sequence number 0 162254
+101230 15:51:35 [Note] Event Scheduler: Loaded 0 events
+101230 15:51:35 [Note] D:\wmnp\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101230 16:36:21 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+101230 16:36:21  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101230 16:36:22  InnoDB: Started; log sequence number 0 162254
+101230 16:36:22 [Note] Event Scheduler: Loaded 0 events
+101230 16:36:22 [Note] D:\wmnp\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101230 16:38:25 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+101230 16:38:25  InnoDB: Initializing buffer pool, size = 128.0M
+101230 16:38:25  InnoDB: Completed initialization of buffer pool
+101230 16:38:26  InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+101230 16:38:26  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101230 16:38:26  InnoDB: 1.1.4 started; log sequence number 162254
+101230 16:38:26 [ERROR] Aborting
+
+101230 16:38:26  InnoDB: Starting shutdown...
+101230 16:38:27  InnoDB: Shutdown completed; log sequence number 162254
+101230 16:38:27 [Note] 
+101230 17:03:41 [Note] Plugin 'FEDERATED' is disabled.
+101230 17:03:41  InnoDB: Started; log sequence number 0 162254
+101230 17:03:41 [Note] Event Scheduler: Loaded 0 events
+101230 17:03:41 [Note] D:\wmnp\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101230 18:06:51 [Note] Plugin 'FEDERATED' is disabled.
+101230 18:06:51  InnoDB: Started; log sequence number 0 162254
+101230 18:06:51 [Note] Event Scheduler: Loaded 0 events
+101230 18:06:51 [Note] D:\wmnp\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101231  9:03:51 [Note] Plugin 'FEDERATED' is disabled.
+101231  9:03:51  InnoDB: Started; log sequence number 0 162254
+101231  9:03:51 [Note] Event Scheduler: Loaded 0 events
+101231  9:03:51 [Note] D:\wmnp\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101231  9:09:17 [Note] Plugin 'FEDERATED' is disabled.
+101231  9:09:18  InnoDB: Started; log sequence number 0 162254
+101231  9:09:18 [Note] Event Scheduler: Loaded 0 events
+101231  9:09:18 [Note] D:\wmnp1\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101231  9:11:46 [Note] Plugin 'FEDERATED' is disabled.
+101231  9:11:47  InnoDB: Started; log sequence number 0 162254
+101231  9:11:47 [Note] Event Scheduler: Loaded 0 events
+101231  9:11:47 [Note] D:\wmnp1\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101231  9:15:44 [Note] Plugin 'FEDERATED' is disabled.
+101231  9:15:44  InnoDB: Started; log sequence number 0 162254
+101231  9:15:44 [Note] Event Scheduler: Loaded 0 events
+101231  9:15:44 [Note] D:\wmnp1\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101231  9:17:34 [Note] Plugin 'FEDERATED' is disabled.
+101231  9:17:34  InnoDB: Started; log sequence number 0 162254
+101231  9:17:34 [Note] Event Scheduler: Loaded 0 events
+101231  9:17:34 [Note] D:\wmnp1\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101231 11:46:42 [Note] Plugin 'FEDERATED' is disabled.
+101231 11:46:43  InnoDB: Started; log sequence number 0 162254
+101231 11:46:43 [Note] Event Scheduler: Loaded 0 events
+101231 11:46:43 [Note] D:\wmnp1\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+101231 11:47:43 [Note] Plugin 'FEDERATED' is disabled.
+101231 11:47:44  InnoDB: Started; log sequence number 0 162254
+101231 11:47:44 [Note] Event Scheduler: Loaded 0 events
+101231 11:47:44 [Note] D:\wmnp1\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110112 15:21:23 [Note] Plugin 'FEDERATED' is disabled.
+110112 15:21:23  InnoDB: Started; log sequence number 0 162254
+110112 15:21:23 [Note] Event Scheduler: Loaded 0 events
+110112 15:21:23 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110112 15:25:14 [Note] Plugin 'FEDERATED' is disabled.
+110112 15:25:14  InnoDB: Started; log sequence number 0 162254
+110112 15:25:14 [Note] Event Scheduler: Loaded 0 events
+110112 15:25:14 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110112 15:26:03 [Note] Plugin 'FEDERATED' is disabled.
+110112 15:26:03  InnoDB: Started; log sequence number 0 162254
+110112 15:26:03 [Note] Event Scheduler: Loaded 0 events
+110112 15:26:03 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110112 15:26:16 [Note] Plugin 'FEDERATED' is disabled.
+110112 15:26:16  InnoDB: Started; log sequence number 0 162254
+110112 15:26:16 [Note] Event Scheduler: Loaded 0 events
+110112 15:26:16 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110112 15:26:32 [Note] Plugin 'FEDERATED' is disabled.
+110112 15:26:32  InnoDB: Started; log sequence number 0 162254
+110112 15:26:32 [Note] Event Scheduler: Loaded 0 events
+110112 15:26:32 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110112 15:30:23 [Note] Plugin 'FEDERATED' is disabled.
+110112 15:30:23  InnoDB: Started; log sequence number 0 162254
+110112 15:30:23 [Note] Event Scheduler: Loaded 0 events
+110112 15:30:23 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110112 15:30:37 [Note] Plugin 'FEDERATED' is disabled.
+110112 15:30:37  InnoDB: Started; log sequence number 0 162254
+110112 15:30:37 [Note] Event Scheduler: Loaded 0 events
+110112 15:30:37 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110112 15:35:14 [Note] Plugin 'FEDERATED' is disabled.
+110112 15:35:14  InnoDB: Started; log sequence number 0 162254
+110112 15:35:14 [Note] Event Scheduler: Loaded 0 events
+110112 15:35:14 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110112 15:35:37 [Note] Plugin 'FEDERATED' is disabled.
+110112 15:35:37  InnoDB: Started; log sequence number 0 162254
+110112 15:35:37 [Note] Event Scheduler: Loaded 0 events
+110112 15:35:37 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110112 15:39:28 [Note] Plugin 'FEDERATED' is disabled.
+110112 15:39:28  InnoDB: Started; log sequence number 0 162254
+110112 15:39:28 [Note] Event Scheduler: Loaded 0 events
+110112 15:39:28 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110112 15:39:53 [Note] Plugin 'FEDERATED' is disabled.
+110112 15:39:53  InnoDB: Started; log sequence number 0 162254
+110112 15:39:53 [Note] Event Scheduler: Loaded 0 events
+110112 15:39:53 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110112 15:41:05 [Note] Plugin 'FEDERATED' is disabled.
+110112 15:41:05  InnoDB: Started; log sequence number 0 162254
+110112 15:41:06 [Note] Event Scheduler: Loaded 0 events
+110112 15:41:06 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110112 15:41:50 [Note] Plugin 'FEDERATED' is disabled.
+110112 15:41:50  InnoDB: Started; log sequence number 0 162254
+110112 15:41:50 [Note] Event Scheduler: Loaded 0 events
+110112 15:41:50 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110112 15:42:44 [Note] Plugin 'FEDERATED' is disabled.
+110112 15:42:45  InnoDB: Started; log sequence number 0 162254
+110112 15:42:45 [Note] Event Scheduler: Loaded 0 events
+110112 15:42:45 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110112 15:44:40 [Note] Plugin 'FEDERATED' is disabled.
+110112 15:44:40  InnoDB: Started; log sequence number 0 162254
+110112 15:44:40 [Note] Event Scheduler: Loaded 0 events
+110112 15:44:40 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110112 15:45:11 [Note] Plugin 'FEDERATED' is disabled.
+110112 15:45:11  InnoDB: Started; log sequence number 0 162254
+110112 15:45:11 [Note] Event Scheduler: Loaded 0 events
+110112 15:45:11 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110112 15:46:44 [Note] Plugin 'FEDERATED' is disabled.
+110112 15:46:44  InnoDB: Started; log sequence number 0 162254
+110112 15:46:44 [Note] Event Scheduler: Loaded 0 events
+110112 15:46:44 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110112 16:41:03 [Note] Plugin 'FEDERATED' is disabled.
+110112 16:41:04  InnoDB: Started; log sequence number 0 162254
+110112 16:41:04 [Note] Event Scheduler: Loaded 0 events
+110112 16:41:04 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110113 13:20:19 [Note] Plugin 'FEDERATED' is disabled.
+110113 13:20:20  InnoDB: Started; log sequence number 0 162254
+110113 13:20:20 [Note] Event Scheduler: Loaded 0 events
+110113 13:20:20 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110316 15:43:23 [Note] Plugin 'FEDERATED' is disabled.
+110316 15:43:24  InnoDB: Started; log sequence number 0 162254
+110316 15:43:24 [Note] Event Scheduler: Loaded 0 events
+110316 15:43:24 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110317  9:28:13 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110317  9:28:13  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110317  9:28:13  InnoDB: Started; log sequence number 0 162264
+110317  9:28:13 [Note] Event Scheduler: Loaded 0 events
+110317  9:28:13 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110317  9:38:40 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110317  9:38:41  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110317  9:38:41  InnoDB: Started; log sequence number 0 162264
+110317  9:38:41 [Note] Event Scheduler: Loaded 0 events
+110317  9:38:41 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110317 10:41:35 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110317 10:41:35  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110317 10:41:35  InnoDB: Started; log sequence number 0 162264
+110317 10:41:35 [Note] Event Scheduler: Loaded 0 events
+110317 10:41:35 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110317 10:45:08 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110317 10:45:09  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110317 10:45:09  InnoDB: Started; log sequence number 0 162264
+110317 10:45:09 [Note] Event Scheduler: Loaded 0 events
+110317 10:45:09 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318  9:22:54 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318  9:22:55  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318  9:22:55  InnoDB: Started; log sequence number 0 162264
+110318  9:22:55 [Note] Event Scheduler: Loaded 0 events
+110318  9:22:55 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318  9:27:18 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318  9:27:18  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318  9:27:18  InnoDB: Started; log sequence number 0 162264
+110318  9:27:18 [Note] Event Scheduler: Loaded 0 events
+110318  9:27:18 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318  9:32:17 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318  9:32:17  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318  9:32:17  InnoDB: Started; log sequence number 0 162264
+110318  9:32:17 [Note] Event Scheduler: Loaded 0 events
+110318  9:32:17 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318  9:32:29 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318  9:32:29  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318  9:32:29  InnoDB: Started; log sequence number 0 162264
+110318  9:32:29 [Note] Event Scheduler: Loaded 0 events
+110318  9:32:29 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318  9:33:07 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318  9:33:07  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318  9:33:07  InnoDB: Started; log sequence number 0 162264
+110318  9:33:07 [Note] Event Scheduler: Loaded 0 events
+110318  9:33:07 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318  9:34:19 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318  9:34:19  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318  9:34:19  InnoDB: Started; log sequence number 0 162264
+110318  9:34:19 [Note] Event Scheduler: Loaded 0 events
+110318  9:34:19 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318  9:34:21 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318  9:34:21  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318  9:34:21  InnoDB: Started; log sequence number 0 162264
+110318  9:34:21 [Note] Event Scheduler: Loaded 0 events
+110318  9:34:21 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318  9:35:10 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318  9:35:10  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318  9:35:11  InnoDB: Started; log sequence number 0 162264
+110318  9:35:11 [Note] Event Scheduler: Loaded 0 events
+110318  9:35:11 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318  9:39:41 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318  9:39:41  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318  9:39:41  InnoDB: Started; log sequence number 0 162264
+110318  9:39:41 [Note] Event Scheduler: Loaded 0 events
+110318  9:39:41 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318  9:39:44 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318  9:39:44  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318  9:39:44  InnoDB: Started; log sequence number 0 162264
+110318  9:39:44 [Note] Event Scheduler: Loaded 0 events
+110318  9:39:44 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318  9:58:05 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318  9:58:05  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318  9:58:06  InnoDB: Started; log sequence number 0 162264
+110318  9:58:06 [Note] Event Scheduler: Loaded 0 events
+110318  9:58:06 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318  9:58:49 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318  9:58:49  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318  9:58:49  InnoDB: Started; log sequence number 0 162264
+110318  9:58:49 [Note] Event Scheduler: Loaded 0 events
+110318  9:58:49 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318  9:59:27 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318  9:59:27  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318  9:59:27  InnoDB: Started; log sequence number 0 162264
+110318  9:59:27 [Note] Event Scheduler: Loaded 0 events
+110318  9:59:27 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318 10:23:50 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318 10:23:50  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318 10:23:50  InnoDB: Started; log sequence number 0 162264
+110318 10:23:51 [Note] Event Scheduler: Loaded 0 events
+110318 10:23:51 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318 11:04:52 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318 11:04:52  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318 11:04:52  InnoDB: Started; log sequence number 0 162264
+110318 11:04:52 [Note] Event Scheduler: Loaded 0 events
+110318 11:04:52 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318 11:13:20 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318 11:13:20  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318 11:13:20  InnoDB: Started; log sequence number 0 162264
+110318 11:13:20 [Note] Event Scheduler: Loaded 0 events
+110318 11:13:20 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318 11:13:23 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318 11:13:23  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318 11:13:23  InnoDB: Started; log sequence number 0 162264
+110318 11:13:23 [Note] Event Scheduler: Loaded 0 events
+110318 11:13:23 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318 16:56:41 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318 16:56:41  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318 16:56:42  InnoDB: Started; log sequence number 0 162264
+110318 16:56:42 [Note] Event Scheduler: Loaded 0 events
+110318 16:56:42 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318 16:57:58 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318 16:57:58  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318 16:57:58  InnoDB: Started; log sequence number 0 162264
+110318 16:57:58 [Note] Event Scheduler: Loaded 0 events
+110318 16:57:58 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318 16:58:35 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318 16:58:35  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318 16:58:35  InnoDB: Started; log sequence number 0 162264
+110318 16:58:35 [Note] Event Scheduler: Loaded 0 events
+110318 16:58:35 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318 16:59:44 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318 16:59:44  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318 16:59:44  InnoDB: Started; log sequence number 0 162264
+110318 16:59:44 [Note] Event Scheduler: Loaded 0 events
+110318 16:59:44 [Note] D:\wmnp-0.1.2\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318 17:02:42 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318 17:02:42  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318 17:02:42  InnoDB: Started; log sequence number 0 162264
+110318 17:02:42 [Note] Event Scheduler: Loaded 0 events
+110318 17:02:42 [Note] D:\wmnp-0.1.3\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318 17:03:15 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318 17:03:15  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318 17:03:15  InnoDB: Started; log sequence number 0 162264
+110318 17:03:15 [Note] Event Scheduler: Loaded 0 events
+110318 17:03:15 [Note] D:\wmnp-0.1.3\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318 17:04:48 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318 17:04:48  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318 17:04:48  InnoDB: Started; log sequence number 0 162264
+110318 17:04:48 [Note] Event Scheduler: Loaded 0 events
+110318 17:04:48 [Note] D:\wmnp-0.1.3\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110318 17:05:52 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+110318 17:05:52  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110318 17:05:52  InnoDB: Started; log sequence number 0 162264
+110318 17:05:52 [Note] Event Scheduler: Loaded 0 events
+110318 17:05:52 [Note] D:\wmnp-0.1.3\etc\script\..\..\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
